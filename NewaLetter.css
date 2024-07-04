@@ -70,6 +70,9 @@
     background-color: rgb(255, 255, 255);
     /* box-shadow: 1px 1px 1px rgb(120, 29, 247); */
 }
+.wrapper .call-to-action button a{
+    text-decoration: none;
+}
 .wrapper .latest-updates fieldset{
     padding: 2%;
     border-color: rgb(48, 48, 126);
